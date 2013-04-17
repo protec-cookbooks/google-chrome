@@ -6,6 +6,6 @@ apt_repository "google-chrome" do
     action :add
 end
 
-package "google-chome-stable" do
+package "google-chrome-stable" do
     action :install
 end
